@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --masters-green: #006747;
+  --masters-yellow: #f7c948;
+}
+
+body {
+  @apply bg-gray-50;
+}
